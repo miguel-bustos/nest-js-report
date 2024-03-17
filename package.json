@@ -10,13 +10,13 @@
     "build": "rm -rf dist && tsc -p tsconfig.build.json"
   },
   "peerDependencies": {
-    "@jsreport/jsreport-assets": "^3.6.0",
-    "@jsreport/jsreport-core": "^3.11.4",
-    "@jsreport/jsreport-scripts": "^3.4.1",
-    "@nestjs/common": "^9.4.2",
-    "@nestjs/core": "^9.4.2",
+    "@jsreport/jsreport-assets": "^4.1.0",
+    "@jsreport/jsreport-core": "^4.2.1",
+    "@jsreport/jsreport-scripts": "^4.1.0",
+    "@nestjs/common": "^10.3.3",
+    "@nestjs/core": "^10.3.3",
     "lodash.clonedeep": "^4.5.0",
-    "reflect-metadata": "^0.1.13",
+    "reflect-metadata": "^0.2.1",
     "rxjs": "^7.8.1"
   },
   "devDependencies": {
